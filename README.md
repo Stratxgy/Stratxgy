@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F7F7F7&width=120&lines=Stratxgy">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F7F7F7&width=140&lines=Stratxgy">
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 - 🔭 I’m currently working on [Untitled-Project](https://github.com/Stratxgy/Untitled-Project)
@@ -14,6 +14,8 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 
 
