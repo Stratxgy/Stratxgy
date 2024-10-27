@@ -1,5 +1,5 @@
 <p align="center">
- <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Stratxgy)](https://git.io/typing-svg)">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F7F7F7&width=120&lines=Stratxgy">
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 - 🔭 I’m currently working on [Untitled-Project](https://github.com/Stratxgy/Untitled-Project)
