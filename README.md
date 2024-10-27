@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=F7F7F7&width=200&lines=Stratxgy">
    
-        ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
+   ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 
 - 🔭 I’m currently working on [Untitled-Project](https://github.com/Stratxgy/Untitled-Project)
 - 🌱 I’m currently learning Lua
