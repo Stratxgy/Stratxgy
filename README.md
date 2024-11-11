@@ -3,9 +3,9 @@
    
    ![](https://komarev.com/ghpvc/?username=Stratxgy&base=1000)
 
-- 🔭 I’m currently working on [Untitled-Project](https://github.com/Stratxgy/Untitled-Project)
+- 🔭 I’m currently working on Aura - Da Hood
 - 🌱 I’m currently learning Lua
-- 🤔 I’m looking for help with [Untitled-Project](https://github.com/Stratxgy/Untitled-Project) (Someone who makes a Phantom Forces ESP?)
+- 🤔 I’m looking for help with Aura - PF (Someone who makes a Phantom Forces ESP?)
   ![](https://hit.yhype.me/github/profile?user_id=117533771)
 
 <h3 align="left">Languages:</h3>
